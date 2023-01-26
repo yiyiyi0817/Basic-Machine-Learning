@@ -1,6 +1,6 @@
 # Basic-Machine-Learning
-哈工大机器学习实验作业  
-HIT Machine Learning Lab Assignment  
+哈工大2022秋机器学习实验作业  
+HIT Fall 2022 Semester Machine Learning Lab Assignment  
   
   
 实验1：多项式拟合正弦曲线  
