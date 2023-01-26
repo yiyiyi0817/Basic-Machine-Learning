@@ -13,7 +13,7 @@ Lab2:Logistic regression
 Lab3:k-means clustering  
   
 实验4：PCA主成分分析  
-Lab4:Principal Component Analysis  
+Lab4:Principal component analysis  
   
   
 要求是只调用math/numpy这一类数学运算库实现相关的机器学习算法，而不能调用现成的机器学习库(如sklearn等)。算法说明详见实验报告。  
