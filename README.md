@@ -16,6 +16,6 @@ Lab3:k-means clustering
 Lab4:Principal Component Analysis  
   
   
-要求是只调用math/numpy这一类数学运算库实现相关的机器学习算法，而不能调用现成的机器学习库(如sklearn等)。  
+要求是只调用math/numpy这一类数学运算库实现相关的机器学习算法，而不能调用现成的机器学习库(如sklearn等)。算法说明详见实验报告。  
 The requirement is to only use math/numpy modules to implement the relevant machine learning algorithms, 
 rather than using existing machine learning modules such as sklearn.  
